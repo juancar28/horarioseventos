@@ -2,10 +2,10 @@
 03:00;Título Mundial Femenino Peso Pluma;A. Serrano;D. Ramos;DAZN (Regístrate);DAZN 2 (M71);
 05:50;MotoGP;G.P. Tailandia (Chang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 07:50;Moto3;G.P. Tailandia (Chang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-08:00;WTA Elite Trophy;Semifinal 1;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
+08:00;WTA Elite Trophy Semifinal 1;D. Kasatkina;B. Haddad Maia;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
 08:45;Moto2;G.P. Tailandia (Chang);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 10:00;MotoGP;G.P. Tailandia (Chang);Sprint;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-10:00;WTA Elite Trophy;Semifinal 2;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
+10:00;WTA Elite Trophy Semifinal 2;L. Zhu;Q. Zheng;WTA TV;DAZN (Regístrate);DAZN 3 (M196);
 10:25;Supersport;G.P. España (Jerez);Superpole;DAZN (Regístrate);RTVE Play;Eurosport Player;
 11:00;Torneo de Les Franqueses del Vallés Semifinal 1 ITF W100;V. Tomova;M. Frech;Tennis Channel (Orange 104);
 11:10;Superbike;G.P. España (Jerez);Superpole;DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport Player;
