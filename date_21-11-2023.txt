@@ -1,5 +1,5 @@
 02:00;NBA Liga Regular;Minnesota Timberwolves;New York Knicks;M+ Deportes (63);
-16:00;Davis Cup Finals 1/4 de Final;Canadá;Finlandia;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
+16:00;Davis Cup Finals 1/4 de Final Partido 1;Canadá;Finlandia;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 18:00;Davis Cup Finals 1/4 de Final Partido 2;Canadá;Finlandia;M+ Vamos (8 y 50);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes (63);
 18:00;Eurocup Liga Regular;U-BT Cluj Napoca;Dreamland Gran Canaria;EuroLeague YouTube;
 19:00;Eurocup Liga Regular;Buducnost Voli;Dolomiti Energia Trento;EuroLeague TV;
