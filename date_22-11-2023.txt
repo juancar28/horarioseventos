@@ -15,4 +15,4 @@
 20:30;Basketball Champions League Liga Regular;Río Breogán;Hapoel Holon;TVG2 (Galicia);
 20:30;Eurocup Liga Regular;London Lions;Olimpija Ljubljana;EuroLeague TV;
 20:45;Eurocup Women Liga Regular;Spar Girona;Gorzów Basketball;FIBA YouTube;Esport3 (Cataluña);Esport3 Web;
-21:00;Copa del Rey 2ª Ronda;Zamora;Villarreal;M+ Liga de Campeones 2 (M61 O116);
+21:00;Copa del Rey 2ª Ronda;Zamora;Villarreal;M+ Liga de Campeones (M60 O114);M+ Liga de Campeones 2 (M61 O116);
