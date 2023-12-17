@@ -21,7 +21,7 @@
 18:30;La Liga EA Sports;UD Las Palmas;Cádiz CF;M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Amorebieta;Real Zaragoza;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 18:30;Liga Endesa Liga Regular;Valencia Basket;MoraBanc Andorra;M+ Deportes 2 (64);
-19:30;Ultimate Tennis Showdown;Final;Tennis Channel (Orange 104);Eurosport Player;
+19:30;Ultimate Tennis Showdown Final;H. Rune;J. Draper;Tennis Channel (Orange 104);Eurosport Player;
 21:00;La Liga EA Sports;Real Madrid;Villarreal;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);M+ LaLiga TV 2 (M57 O112);M+ LaLiga TV UHD (M440 O111);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Racing Ferrol;CD Tenerife;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);LaLiga TV M2;
 21:30;NBA Liga Regular;San Antonio Spurs;New Orleans Pelicans;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
