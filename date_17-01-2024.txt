@@ -48,4 +48,4 @@
 20:30;Eurocup Liga Regular;Joventut Badalona;London Lions;Esport3 (Cataluña);Esport3 Web;
 21:00;Copa del Rey 1/8 de final;Osasuna;Real Sociedad;M+ Liga de Campeones 2 (M61 O116);
 21:00;Eurocup Liga Regular;Dreamland Gran Canaria;Türk Telekom Ankara;EuroLeague YouTube;
-21:30;Copa del Rey 1/8 de final;Girona;Rayo Vallecano;La 2 TVE;Teledeporte;RTVE Play;
+21:30;Copa del Rey 1/8 de final;Girona;Rayo Vallecano;Teledeporte;RTVE Play;
