@@ -23,5 +23,5 @@
 19:30;Torneo de Marsella 1ª Ronda;S. Korda;H. Grenier;ATP Tennis TV;
 20:00;Basketball Champions League Top 16;Strasbourg Basket;Unicaja Málaga;101 TV (Málaga);Teledeporte;RTVE Play;
 20:00;Eurocup Liga Regular;WKS Slask Wroclaw;Türk Telekom Ankara;EuroLeague TV;
-21:00;Copa del Rey Semifinales;Mallorca;Real Sociedad;M+ Copa del Rey (M52 O108);M+ Liga de Campeones (M60 O114);La 1 TVE;M+ Liga de Campeones 2 (M61 O116);RTVE Play;
+21:00;Copa del Rey Semifinales;Mallorca;Real Sociedad;M+ Copa del Rey (M52 O108);M+ Liga de Campeones (M60 O114);La 1 TVE;M+ Liga de Campeones 2 (M61 O116);RTVE Play;IB3 (Baleares);
 22:30;Torneo de Córdoba 1ª Ronda;RA. Burruchaga;D. Schwartzman;ATP Tennis TV;
