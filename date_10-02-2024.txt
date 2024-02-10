@@ -36,7 +36,7 @@
 18:30;Segunda Federación Futsal;Levante UD FS;Full Energía Zaragoza;Aragón Deporte;RFEF.es;
 18:30;Ultimate Tennis Showdown Fase de grupos;H. Rune;A. Bublik;Tennis Channel (Orange 104);Eurosport Player;
 19:00;Segunda Federación Futsal;AD Sala 10 Zaragoza;Unión África Ceutí;Aragón Deporte;
-19:30;Ultimate Tennis Showdown Fase de grupos;A. Rublev;G. Monfils;Tennis Channel (Orange 104);Eurosport Player;
+19:30;Ultimate Tennis Showdown Fase de grupos;A. Rublev;L. Pouille;Tennis Channel (Orange 104);Eurosport Player;
 20:00;Título Commonwealth Peso Superpluma;L. Dillon;R. Bellotti;DAZN (Regístrate);DAZN 2 (M71);
 20:45;Liga Endesa Liga Regular;Casademont Zaragoza;Lenovo Tenerife;M+ Deportes (63);
 20:45;Liga Endesa Liga Regular;MoraBanc Andorra;Basquet Girona;M+ Deportes 2 (64);
