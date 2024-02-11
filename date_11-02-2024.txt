@@ -9,8 +9,8 @@
 12:30;Liga Endesa Liga Regular;Baskonia;Joventut Badalona;M+ Deportes 2 (64);
 12:30;Liga Endesa Liga Regular;Bilbao Basket;Valencia Basket;M+ Deportes (63);
 12:30;Liga Endesa Liga Regular;Río Breogán;Real Madrid Baloncesto;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
-12:30;Ultimate Tennis Showdown;Semifinales;Tennis Channel (Orange 104);Eurosport Player;
-13:30;Ultimate Tennis Showdown;Semifinales;Tennis Channel (Orange 104);Eurosport Player;
+12:30;Ultimate Tennis Showdown Semifinales;A. De Miñaur;C. Ruud;Tennis Channel (Orange 104);Eurosport Player;
+13:30;Ultimate Tennis Showdown Semifinales;A. Rublev;A. Bublik;Tennis Channel (Orange 104);Eurosport Player;
 13:30;WTA Doha 1ª Ronda WTA 1000;D. Vekic;K. Siniakova;WTA TV;DAZN (Regístrate);
 14:00;La Liga EA Sports;Getafe;Celta;DAZN LaLiga (M55 O113);DAZN (Regístrate);LaLiga TV Bar;
 14:00;LaLiga Hypermotion;Villarreal B;CD Tenerife;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
