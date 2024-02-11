@@ -38,8 +38,8 @@
 18:30;Liga Endesa Liga Regular;BAXI Manresa;Barça Basket;Movistar Plus+ (M7);M+ Deportes (63);
 19:15;Preolímpico Femenino;Senegal;Estados Unidos;DAZN (Regístrate);
 20:00;NBA Liga Regular;Miami Heat;Boston Celtics;ProSieben MAXX (M+ Astra);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
-20:00;Torneo de Dallas;Final;ATP 250;ATP Tennis TV;
+20:00;Torneo de Dallas Final ATP 250;M. Giron;T. Paul;ATP Tennis TV;
 21:00;La Liga EA Sports;FC Barcelona;Granada CF;M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Burgos CF;Racing Ferrol;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 21:00;Preolímpico Femenino;Serbia;Australia;DAZN (Regístrate);
-23:00;Torneo de Córdoba;Final;ATP 250;ATP Tennis TV;
+23:00;Torneo de Córdoba Final ATP 250;F. Bagnis;L. Darderi;ATP Tennis TV;
