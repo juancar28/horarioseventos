@@ -6,7 +6,7 @@
 10:00;Minicopa Endesa Fase Regular;Real Madrid Baloncesto;BAXI Manresa;ACB YouTube;Real Madrid TV;
 12:00;Minicopa Endesa Fase Regular;Unicaja Málaga;Joventut Badalona;ACB YouTube;
 13:00;Torneo de Rotterdam 1/4 de Final;G. Dimitrov;A. Shevchenko;ATP Tennis TV;M+ Deportes (63);M+ Deportes 3 (65);
-13:15;Vuelta a Andalucía;Etapa 3;Alcaudete › Alcaudete (4,9 km);DAZN (Regístrate);Teledeporte;RTVE Play;Eurosport 2;Eurosport Player;
+13:15;Vuelta a Andalucía;Etapa 3;Alcaudete › Alcaudete (4,9 km);DAZN (Regístrate);Teledeporte;RTVE Play;Andalucía TV;Eurosport 2;Eurosport Player;
 14:00;Minicopa Endesa Fase Regular;Barça Basket;Basquet Girona;ACB YouTube;
 14:15;Semana Valenciana;Etapa 2;Borriol › La Vall d'Uixó (117 km);SPORTPUBLIC TV YouTube;
 14:30;Torneo de Rotterdam 1/4 de Final;A. De Miñaur;A. Rublev;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;M+ Deportes 3 (65);
