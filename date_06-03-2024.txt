@@ -7,9 +7,11 @@
 17:30;Qatar Major;1/4 de Final Femenino;Premier Padel;M+ Ellas Vamos (66);Movistar+ Lite;M+ Deportes 3 (65);
 18:00;Eurocup 1/8 de final;BC Prometey;Aris Thessaloniki BC;EuroLeague TV;
 18:30;Basketball Champions League Top 16;Peristeri BC;Karsiyaka Basket;DAZN (Regístrate);
+18:30;FIBA Europe Cup 1/4 de Final;CEZl Nymburk;Pallacanestro Varese;FIBA YouTube;
 18:30;FIBA Europe Cup 1/4 de Final;Legia Warszawa BC;Bilbao Basket;FIBA YouTube;ETB4 (País Vasco);
 18:45;Europa League 1/8 de final;Sporting CP;Atalanta;M+ Liga de Campeones 3 (M62 O118);
 19:00;Eurocup 1/8 de final;London Lions;Türk Telekom Ankara;EuroLeague TV;
+19:30;Eurocup Women Semifinales;Umana Reyer Venice;London Lions;FIBA YouTube;
 19:30;Qatar Major;1/4 de Final Masculino;Premier Padel;M+ Deportes 3 (65);
 20:00;Basketball Champions League Top 16;Cholet Basket;Tofas Bursa;DAZN (Regístrate);
 20:00;Basketball Champions League Top 16;MHP RIESEN Ludwigsburg;JDA Dijon;DAZN (Regístrate);
@@ -21,4 +23,5 @@
 21:00;Champions League 1/8 de final;Manchester City;København;M+ Liga de Campeones UHD 2 (M443 O117);M+ Liga de Campeones 2 (M61 O116);
 21:00;Champions League 1/8 de final;Real Madrid;RB Leipzig;Movistar Plus+ (M7);M+ Liga de Campeones UHD (M441 O115);M+ Liga de Campeones (M60 O114);LaLiga TV Bar;
 21:00;Eurocup 1/8 de final;Dreamland Gran Canaria;Besiktas JK Istanbul;M+ Deportes (63);
+21:00;FIBA Europe Cup 1/4 de Final;FC Porto CB;Bahçeşehir Koleji;FIBA YouTube;
 21:00;Primera Federación Futsal;Real Betis FS;Servigroup Peñiscola FS;FEF TV;
