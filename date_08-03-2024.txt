@@ -21,7 +21,7 @@
 20:30;LaLiga Hypermotion;Huesca;FC Andorra;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
 21:00;La Liga EA Sports;FC Barcelona;Mallorca;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
 21:00;Primera Federación Futsal;Noia Portus Apostoli FS;ElPozo Murcia;FEF TV;
-21:00;Puebla Open;1/4 de Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+21:00;Puebla Open;1/4 de Final;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+ Plus;
 21:30;Masters Indian Wells 2ª Ronda;A. Rublev;A. Murray;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 6 (193);
 21:30;Masters Indian Wells 2ª Ronda;A. Zverev;C. O'Connell;ATP Tennis TV;M+ Deportes 7 (194);
 22:00;WTA Indian Wells 2ª Ronda;I. Swiatek;D. Collins;WTA TV;DAZN (Regístrate);
