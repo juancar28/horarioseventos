@@ -5,3 +5,4 @@
 19:30;Eurocup 1/4 de Final;JL Bourg;BC Prometey;EuroLeague TV;
 20:00;Basketball Champions League Top 16;Telekom Baskets Bonn;JDA Dijon;DAZN (Regístrate);
 20:30;Basketball Champions League Top 16;UCAM Murcia CB;AEK BC;DAZN (Regístrate);Popular TV Murcia;
+21:00;WTA Indian Wells 1/8 de final;A. Pavlyuchenkova;M. Kostyuk;WTA TV;DAZN (Regístrate);
