@@ -2,6 +2,7 @@
 00:45;Masters Indian Wells 1/4 de Final;A. Zverev;C. Alcaraz;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 02:00;WTA Indian Wells 1/4 de Final;M. Sakkari;E. Navarro;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
 02:15;Masters Indian Wells 1/4 de Final;D. Medvedev;H. Rune;ATP Tennis TV;M+ Deportes 3 (65);
+10:00;Mónaco Masters;1ª Ronda;A1 Padel;LaLiga+ Plus;
 12:00;Champions League;Sorteo de cuartos y semifinales;Movistar Plus+ (M7);UEFA TV;M+ Liga de Campeones (M60 O114);
 13:00;Europa League;Sorteo de cuartos y semifinales;Movistar Plus+ (M7);UEFA TV;M+ Liga de Campeones (M60 O114);
 14:10;Vuelta a Extremadura;Etapa 1;Badajoz › Badajoz (156 km);SPORTPUBLIC TV YouTube;Canal Extremadura;
