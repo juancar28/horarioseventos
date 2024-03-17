@@ -26,5 +26,5 @@
 21:00;Amistoso Femenino;Portugal;España;Teledeporte;RTVE Play;
 21:00;La Liga EA Sports;At. Madrid;FC Barcelona;DAZN LaLiga (M55 O113);DAZN (Regístrate);DAZN LaLiga 2 (M58 O274);LaLiga TV Bar;
 21:30;NASCAR Cup Series;Bristol Speedway;Carrera;DAZN (Regístrate);
-22:00;Masters Indian Wells;Final;ATP Masters 1000;ATP Tennis TV;Movistar Plus+ 2 (M176);M+ Deportes (63);
+22:00;Masters Indian Wells Final ATP Masters 1000;D. Medvedev;C. Alcaraz;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
 BaloncestoESP;Aragón Deporte;Aragón TV;
