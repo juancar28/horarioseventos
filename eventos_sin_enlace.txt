@@ -12,11 +12,15 @@
 16:00;Miami Open;Round Robin;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;
 16:00;Torneo de Marrakech 1/4 de Final;M. Berrettini;L. Sonego;ATP Tennis TV;
 17:00;WTA Torneo de Bogotá;1/4 de Final;WTA 250;WTA TV;DAZN (Regístrate);
+17:00;WTA Torneo de Charleston 1/4 de Final;D. Kasatkina;J. Cristian;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 17:30;Torneo de Marrakech 1/4 de Final;M. Navone;A. Vukic;ATP Tennis TV;
-18:00;Torneo de Estoril 1/4 de Final;R. Gasquet;P. Martínez;ATP Tennis TV;
+18:30;WTA Torneo de Charleston 1/4 de Final;J. Pegula;V. Azarenka;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
+19:00;Torneo de Houston 1/4 de Final;TM. Etcheverry;M. Mmoh;ATP Tennis TV;
 19:00;WTA Torneo de Charleston;1/4 de Final;WTA 500;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 19:30;Torneo de Estoril 1/4 de Final;C. Ruud;M. Fucsovics;ATP Tennis TV;
-20:00;Torneo de Houston;1/4 de Final;ATP 250;ATP Tennis TV;
+20:00;WTA Torneo de Charleston 1/4 de Final;E. Mertens;D. Collins;WTA TV;DAZN (Regístrate);Tennis Channel (Orange 104);
 20:30;Primera Federación Futsal;Real Betis FS;Osasuna Magna;FEF TV;
+20:30;Torneo de Houston 1/4 de Final;B. Shelton;B. Nakashima;ATP Tennis TV;
 21:00;Primera Federación Futsal;Industrias Santa Coloma;Viña Albali Valdepeñas;FEF TV;
+22:00;Torneo de Houston 1/4 de Final;M. Giron;L. Darderi;ATP Tennis TV;
 BaloncestoESP;
