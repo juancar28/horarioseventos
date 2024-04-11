@@ -1,9 +1,16 @@
 01:30;NBA Liga Regular;Miami Heat;Dallas Mavericks;Movistar Plus+ (M7);M+ Deportes (63);
-11:00;Masters Montecarlo;3ª Ronda;ATP Masters 1000;ATP Tennis TV;M+ Deportes (63);
+11:00;Masters Montecarlo;3ª Ronda;ATP Masters 1000;ATP Tennis TV;
+11:00;Masters Montecarlo;A. De Miñaur;A. Popyrin;ATP Tennis TV;M+ Deportes 2 (64);
+11:00;Masters Montecarlo;K. Khachanov;D. Medvedev;ATP Tennis TV;M+ Deportes (63);
 12:30;Masters Montecarlo 2ª Ronda;H. Rune;S. Nagal;ATP Tennis TV;M+ Deportes (63);
-12:30;Masters Montecarlo 2ª Ronda;M. Kecmanovic;G. Dimitrov;ATP Tennis TV;M+ Deportes 3 (65);
+12:30;Masters Montecarlo 2ª Ronda;M. Kecmanovic;G. Dimitrov;ATP Tennis TV;M+ Deportes 2 (64);
+13:30;Masters Montecarlo;A. Zverev;S. Tsitsipas;ATP Tennis TV;M+ Deportes 2 (64);
+13:30;Masters Montecarlo;N. Djokovic;L. Musetti;ATP Tennis TV;Movistar Plus+ (M7);M+ Deportes (63);
 13:50;Giro d'Abruzzo;Etapa 3;Pratola Peligna › Prati di Tivo (163 km);DAZN (Regístrate);Eurosport 1;Eurosport Player;
+15:00;Masters Montecarlo;JL. Struff;J. Sinner;ATP Tennis TV;M+ Deportes (63);
 16:00;Miami Open;Round Robin;Pro Padel League;DAZN (Regístrate);DAZN App Gratis (Regístrate);Pro Padel League YouTube;
+16:30;Masters Montecarlo;H. Hurkacz;C. Ruud;ATP Tennis TV;M+ Deportes (63);
+16:30;Masters Montecarlo;L. Sonego;U. Humbert;ATP Tennis TV;M+ Deportes 2 (64);
 19:00;Euroliga Liga Regular;AS Monaco Basket;FC Bayern Basketball;M+ Deportes 5 (192);
 19:00;Euroliga Liga Regular;Zalgiris Kaunas;Real Madrid Baloncesto;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 19:30;Euroliga Liga Regular;Anadolu Efes Istanbul;Crvena Zvezda MTS Belgrade;M+ Deportes 4 (191);
